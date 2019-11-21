@@ -3,6 +3,7 @@ package CISC181.Week7.ArrayList;
 import java.io.Serializable;
 import java.util.Comparator;
 
+
 public class Card implements Comparable, Serializable {
 
 	private eSuit eSuit;
